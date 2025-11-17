@@ -15,7 +15,6 @@ Fournir une documentation claire et réutilisable
 
 Réduire les erreurs grâce à un guide pas-à-pas illustré
 
-Structure du dépôt
 IntuneAppDeployment/
 │
 ├── README.md
@@ -63,6 +62,7 @@ IntuneAppDeployment/
     │
     └── pdf/
         └── Procedure_Intune.pdf
+
 
 Documentation PDF
 
