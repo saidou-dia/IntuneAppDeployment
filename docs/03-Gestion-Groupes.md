@@ -25,4 +25,3 @@ Avant de déployer une application, il faut définir qui va la recevoir : utilis
 - Groupe utilisateurs : gestion automatique comptes de test
 - Groupe appareils : affectation automatique des postes
 
-![SD](https://github.com/user-attachments/assets/d868da71-49f2-4ec3-bbb3-c0c8a69a1caa)
