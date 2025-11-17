@@ -5,15 +5,15 @@ Ce projet a été réalisé dans le cadre d’un stage pour fournir une procédu
 
 Objectifs du projet
 
-Automatiser et standardiser l’installation des applications Win32, Microsoft Store et Microsoft 365 Apps
-
-Assurer la conformité et la sécurité du parc informatique
-
-Optimiser le temps d’intégration des nouveaux appareils
-
-Fournir une documentation claire et réutilisable
-
-Réduire les erreurs grâce à un guide pas-à-pas illustré
+    Automatiser et standardiser l’installation des applications Win32, Microsoft Store et Microsoft 365 Apps
+    
+    Assurer la conformité et la sécurité du parc informatique
+    
+    Optimiser le temps d’intégration des nouveaux appareils
+    
+    Fournir une documentation claire et réutilisable
+    
+    Réduire les erreurs grâce à un guide pas-à-pas illustré
 
 Structure du dépôt
 IntuneAppDeployment/
@@ -66,26 +66,42 @@ IntuneAppDeployment/
 
 Documentation PDF
 
-La version PDF complète (avec toutes les captures d’écran) est incluse :
-
-docs/pdf/Procedure_Intune.pdf
+    La version PDF complète (avec toutes les captures d’écran) est incluse :
+    
+    docs/pdf/Procedure_Intune.pdf
 
 Contenu couvert dans la documentation
+    
+    Pré-requis techniques
+    
+    Gestion des groupes utilisateurs et appareils (statiques / dynamiques)
+    
+    Types de déploiement supportés
+    
+    Création et déploiement d’applications Win32
+    
+    Déploiement Microsoft Store
+    
+    Déploiement Microsoft 365 Apps
+    
+    Suivi des installations et vérification depuis Intune
+    
+    Diagnostic et gestion des erreurs
+    
+    Bonnes pratiques
 
-Pré-requis techniques
+Technologies utilisées
 
-Gestion des groupes utilisateurs et appareils (statiques / dynamiques)
+    Microsoft Intune
+    
+    Windows 10 / Windows 11
+    
+    Microsoft 365 / Entra ID
+    
+    Git / GitHub
+    
+    Win32 Content Prep Tool
 
-Types de déploiement supportés
+Auteur Saidou DIA
 
-Création et déploiement d’applications Win32
-
-Déploiement Microsoft Store
-
-Déploiement Microsoft 365 Apps
-
-Suivi des installations et vérification depuis Intune
-
-Diagnostic et gestion des erreurs
-
-Bonnes pratiques
+    Projet réalisé dans le cadre d’un stage : documentation technique pour faciliter le déploiement d’applications via Intune.
